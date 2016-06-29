@@ -1,0 +1,2 @@
+# akanebane.github.com
+blog
